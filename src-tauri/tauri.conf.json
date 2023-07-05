@@ -56,10 +56,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 200,
         "resizable": true,
         "title": "StuccoTL",
-        "width": 800
+        "width": 400
       }
     ]
   }
