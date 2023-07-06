@@ -62,7 +62,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://stucco.software/releases/{{target}}/{{arch}}/{{current_version}}"
+        "https://releases.stucco.software/{{target}}/{{arch}}/{{current_version}}"
       ],
       "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDRDQzNDMkU0MjM4MTJFQUIKUldTckxvRWo1TUxEVEhoOVVoYXFwUThFZDFSNjczOEZTVVZySHQrMHNlSzRadkxSaU5aaEF1a2cK"
